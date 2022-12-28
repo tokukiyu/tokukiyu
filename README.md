@@ -15,7 +15,7 @@ thank you
   srcset="https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&hide_border=false" />
 </picture>
  data-canonical-src="https://github-readme-stats.vercel.app/api?username=bekalue&amp;show_icons=true&amp;theme=dark&amp;border_color=ffffff&amp;hide_border=true" style="max-width: 100%;"
 <!---
