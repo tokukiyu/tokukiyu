@@ -11,12 +11,8 @@ thank you
   srcset="https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&theme=dark&hide_border=false"
   media="(prefers-color-scheme: dark)"
 />
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&hide_border=false"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&hide_border=false" />
-</picture>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
  data-canonical-src="https://github-readme-stats.vercel.app/api?username=bekalue&amp;show_icons=true&amp;theme=dark&amp;border_color=ffffff&amp;hide_border=true" style="max-width: 100%;"
 <!---
 tokukiyu/tokukiyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
