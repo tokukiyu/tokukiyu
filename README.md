@@ -17,6 +17,7 @@ thank you
 />
 <img src="https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true" />
 </picture>
+ data-canonical-src="https://github-readme-stats.vercel.app/api?username=bekalue&amp;show_icons=true&amp;theme=dark&amp;border_color=ffffff&amp;hide_border=true" style="max-width: 100%;"
 <!---
 tokukiyu/tokukiyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
