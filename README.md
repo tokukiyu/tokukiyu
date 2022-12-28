@@ -6,7 +6,7 @@
 thank you
 [![GitHub Streak](https://streak-stats.demolab.com?user=tokukiyu&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&theme=transparent style="max-width: 100%;)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&theme=transparent style="max-width: 100%";)
 <!---
 tokukiyu/tokukiyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
