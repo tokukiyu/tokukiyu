@@ -8,8 +8,9 @@
 thank you
 https://www.fiverr.com/share/V8Qyze
 [![GitHub Streak](https://streak-stats.demolab.com?user=tokukiyu&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&theme=radical&hide_border=true)
+
 </p>
+
 <h2>Languages and tools</h2>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9c211c6bc9085ec892b41f64ebd1f560821307ed6125e919f14f9e76ba5d74e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3542343633383f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d666666666666"><img src="https://camo.githubusercontent.com/c9c211c6bc9085ec892b41f64ebd1f560821307ed6125e919f14f9e76ba5d74e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3542343633383f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d666666666666" alt="Java" data-canonical-src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&amp;logo=java&amp;logoColor=ffffff" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8814f21cd70224af3706952ba64c10b64821c976f61ff3adf1ab6d81c0237d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666c61742d737175617265266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/b8814f21cd70224af3706952ba64c10b64821c976f61ff3adf1ab6d81c0237d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666c61742d737175617265266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="C++" data-canonical-src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;"></a>
