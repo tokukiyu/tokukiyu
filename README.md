@@ -9,7 +9,6 @@ thank you
 https://www.fiverr.com/share/V8Qyze
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tokukiyu&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokukiyu&show_icons=true&theme=radical&hide_border=true)
 
 
 <h2>Languages and tools</h2>
