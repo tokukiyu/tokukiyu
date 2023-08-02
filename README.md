@@ -3,8 +3,8 @@
 - 👋 Hi, I’m Tokuma Abdisa
 - 👀 I’m Software Engineering Student...
 - 🌱 I’m currently learning Software at Jimma Universty ...
-- I'm Working some software development right now, which are; web development mobile app development and etc;specially if you need any type of website you can contact me i'm available 
-- 📫  you can reach me by email: tokkiyuam@gmail.com or t.me/kiyualv on telegram
+- I'm Working some software development right now, which are; web development mobile app development and etc;specially if you need any type of website you can contact me i'm available  
+- 📫  you can reach me by email: tokkiyuam@gmail.com or t.me/kiyualv on telegram 
 thank you
 https://www.fiverr.com/share/V8Qyze
 
