@@ -6,7 +6,7 @@
 - I'm Working some software development right now, which are; web development mobile app development and etc;specially if you need any type of website you can contact me i'm available  
 - 📫  you can reach me by email: tokkiyuam@gmail.com or t.me/kiyualv on telegram 
 thank you
-this is my fiver gig https://www.fiverr.com/share/V8Qyze
+this is my fiver gig https://www.fiverr.com/share/V8Qyze <br/>
 upwork: 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tokukiyu&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)
