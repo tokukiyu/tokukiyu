@@ -1,4 +1,5 @@
 <h2>hello there</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Tokuma Abdisa
 - 👀 I’m Software Engineering Student...
