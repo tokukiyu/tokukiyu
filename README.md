@@ -10,7 +10,6 @@ this is my fiver gig https://www.fiverr.com/share/V8Qyze <br/>
 upwork: 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=tokukiyu&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokukiyu&layout=compact&theme=aura&langs_count=9)](https://github.com/tokukiyu)
 
 <!-- You can add more sections and content below this line -->
