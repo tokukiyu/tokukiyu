@@ -8,10 +8,9 @@
 thank you
 this is my fiver gig https://www.fiverr.com/share/V8Qyze <br/>
 upwork: 
-
+## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=tokukiyu&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)
 
-## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokukiyu&layout=compact&theme=aura&langs_count=9)](https://github.com/tokukiyu)
 
@@ -19,7 +18,15 @@ upwork:
 
 
 <h2>Languages and tools</h2>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9c211c6bc9085ec892b41f64ebd1f560821307ed6125e919f14f9e76ba5d74e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3542343633383f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d666666666666"><img src="https://camo.githubusercontent.com/c9c211c6bc9085ec892b41f64ebd1f560821307ed6125e919f14f9e76ba5d74e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3542343633383f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d666666666666" alt="Java" data-canonical-src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&amp;logo=java&amp;logoColor=ffffff" style="max-width: 100%;"></a>
+<p dir="auto">
+
+  
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D)](https://vuejs.org/)
+[![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9c211c6bc9085ec892b41f64ebd1f560821307ed6125e919f14f9e76ba5d74e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3542343633383f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d666666666666"><img src="https://camo.githubusercontent.com/c9c211c6bc9085ec892b41f64ebd1f560821307ed6125e919f14f9e76ba5d74e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3542343633383f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d666666666666" alt="Java" data-canonical-src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&amp;logo=java&amp;logoColor=ffffff" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8814f21cd70224af3706952ba64c10b64821c976f61ff3adf1ab6d81c0237d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666c61742d737175617265266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/b8814f21cd70224af3706952ba64c10b64821c976f61ff3adf1ab6d81c0237d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666c61742d737175617265266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="C++" data-canonical-src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e724d4248ce09b0f16320e6e1e7128e7f01b035ea5b860fec92bc8f4b22b57c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"><img src="https://camo.githubusercontent.com/5e724d4248ce09b0f16320e6e1e7128e7f01b035ea5b860fec92bc8f4b22b57c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=flat-square&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c5d0c3ab3bb7d56038dcfa868b056ed7b2bd119579bd4cf4d1123244adc74bca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d2532334630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666"><img src="https://camo.githubusercontent.com/c5d0c3ab3bb7d56038dcfa868b056ed7b2bd119579bd4cf4d1123244adc74bca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d2532334630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&amp;logo=git&amp;logoColor=%23ffffff" style="max-width: 100%;"></a>
