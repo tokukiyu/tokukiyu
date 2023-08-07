@@ -11,6 +11,12 @@ upwork:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tokukiyu&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)
 
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokukiyu&layout=compact&theme=aura&langs_count=9)](https://github.com/tokukiyu)
+
+<!-- You can add more sections and content below this line -->
+
 
 <h2>Languages and tools</h2>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9c211c6bc9085ec892b41f64ebd1f560821307ed6125e919f14f9e76ba5d74e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3542343633383f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d666666666666"><img src="https://camo.githubusercontent.com/c9c211c6bc9085ec892b41f64ebd1f560821307ed6125e919f14f9e76ba5d74e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3542343633383f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d666666666666" alt="Java" data-canonical-src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&amp;logo=java&amp;logoColor=ffffff" style="max-width: 100%;"></a>
