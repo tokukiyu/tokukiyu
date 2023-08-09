@@ -8,10 +8,10 @@
 this is my fiver gig https://www.fiverr.com/share/V8Qyze <br/>
 upwork: 
 ## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokukiyu&layout=compact&theme=aura&langs_count=15&hide_border=true)](https://github.com/tokukiyu)
+
 [![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tokukiyu&theme=dark)](https://git.io/streak-stats)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokukiyu&layout=compact&theme=aura&langs_count=15&hide_border=true)](https://github.com/tokukiyu)
-
 
 <!-- You can add more sections and content below this line -->
 
