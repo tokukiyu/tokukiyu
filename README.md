@@ -1,4 +1,4 @@
- <h2>Hello There</h2>
+<h2>Hello There</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hello,+I'am+Tokuma+Abdisa)](https://git.io/typing-svg)
 - 👀 I’m Software Engineering Student..
