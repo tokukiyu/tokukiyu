@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hello,+I'am+Tokuma+Abdisa)](https://git.io/typing-svg)
 - 👀 I’m Software Engineering Student..
-- 🌱 I’m currently learning Software at Jimma Universty ... 
+- 🌱 I’m currently learning Software at Jimma Universty ...
 - I'm Working some software development right now, which are; web development mobile app development and etc;specially if you need any type of website you can contact me i'm available  
 - 📫  you can reach me by email: tokkiyuam@gmail.com or t.me/kiyualv on telegram
 - portifilio link : https://boisterous-narwhal-226d60.netlify.app/ <br />
