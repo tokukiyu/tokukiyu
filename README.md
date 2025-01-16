@@ -5,7 +5,7 @@
 - 🌱 I’m currently working as fullstack freelancer,...
 - 📫  you can reach me by email: tokumakwork@gmail.com or t.me/kiyualv on telegram
 - portifilio link : https://tokumabdisa.5gada.com <br />
-- this is my fiver gig https://www.fiverr.com/share/V8Qyze <br/> 
+
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tokukiyu&theme=dark&hide_border=true&background=420C0C20)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokukiyu&layout=compact&theme=aura&langs_count=20&hide_border=true)](https://github.com/tokukiyu)
