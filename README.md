@@ -5,6 +5,7 @@
 - 🌱 I’m currently working as fullstack freelancer,...
 - 📫  you can reach me by email: tokumakwork@gmail.com or t.me/kiyualv on telegram
 - portifilio link : https://tokumabdisa.5gada.com <br />
+- Fiverr : [Fiverr profile ](https://www.fiverr.com/s/P2X2Zyg) <br />
 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tokukiyu)](https://git.io/streak-stats) 
