@@ -7,12 +7,6 @@
 - portifilio link : https://tokumabdisa.5gada.com <br />
 - Fiverr : [Fiverr profile ](https://www.fiverr.com/s/P2X2Zyg) <br />
 
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tokukiyu)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokukiyu&layout=compact&theme=aura&langs_count=20&hide_border=true)](https://github.com/tokukiyu)
-<!-- You can add more sections and content below this line -->
-
-
 <h2>Languages and tools</h2>
 <p dir="auto">
 
