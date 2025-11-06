@@ -13,7 +13,6 @@
   
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D)](https://vuejs.org/)
 [![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
@@ -33,9 +32,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![PHP Slim](https://img.shields.io/badge/PHP%20Slim-%230D1821.svg?style=flat-square&logo=slim&logoColor=white)](https://www.slimframework.com/)
 [![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%23336699.svg?style=flat-square&logo=ai&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![Natural Language Processing](https://img.shields.io/badge/NLP-%2300BFFF.svg?style=flat-square&logo=natural-language-processing&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
